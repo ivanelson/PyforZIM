@@ -3,3 +3,4 @@ Notas
 
 1. Utilizar o exemplo do Palindromo e comparar o algoritmo em Python e Java
 2. Versão a atual do Java 7/8 ainda não tem multilinhas """ """
+3. Uma função recebe 2 parâmetros e retorna a soma dos mesmos - é um exemplo de Polimorfismo
