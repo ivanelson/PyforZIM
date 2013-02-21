@@ -5,6 +5,7 @@ FEATURES
 ========
 
 1. Versão a atual do Java 7/8 ainda não tem multilinhas """ """
+2. Tipagem Dinâmica e forte. Exemplo com JavaScript no Console do Chrome alert("A soma eh " + (1 + "1"));
 
 ALGORITMOS
 ==========
