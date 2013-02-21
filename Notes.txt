@@ -1,0 +1,4 @@
+Notas
+=====
+
+1. Utilizar o exemplo do Palindromo e comparar o algoritmo em Python e Java
