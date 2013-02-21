@@ -10,6 +10,7 @@ FEATURES
 ALGORITMOS
 ==========
 1. Utilizar o exemplo do Palindromo e comparar o algoritmo em Python e Java
+2. Contador de palavras num arquivo usando dictionary. https://gist.github.com/fmasanori/4673017
 
 POO
 ===
@@ -20,3 +21,8 @@ DATABASES - DBAPI
 =================
 
 1. Explorar algum exemplo de banco de dados com SQLIte3
+
+SMTP - E-Mail
+=============
+
+1. Exemplo pra enviar e-mails pelo gmail. https://gist.github.com/fmasanori/4745299
