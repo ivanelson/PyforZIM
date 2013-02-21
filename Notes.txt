@@ -1,6 +1,21 @@
 Notas
 =====
 
+FEATURES
+========
+
+1. Versão a atual do Java 7/8 ainda não tem multilinhas """ """
+
+ALGORITMOS
+==========
 1. Utilizar o exemplo do Palindromo e comparar o algoritmo em Python e Java
-2. Versão a atual do Java 7/8 ainda não tem multilinhas """ """
-3. Uma função recebe 2 parâmetros e retorna a soma dos mesmos - é um exemplo de Polimorfismo
+
+POO
+===
+
+1. Uma função recebe 2 parâmetros e retorna a soma dos mesmos - é um exemplo de Polimorfismo
+
+DATABASES - DBAPI
+=================
+
+1. Explorar algum exemplo de banco de dados com SQLIte3
