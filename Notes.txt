@@ -6,6 +6,8 @@ FEATURES
 
 1. Versão a atual do Java 7/8 ainda não tem multilinhas """ """
 2. Tipagem Dinâmica e forte. Exemplo com JavaScript no Console do Chrome alert("A soma eh " + (1 + "1"));
+3. Raspberry PI já vem com Python2.7 & Python3, tem entrada VGA e USB.
+4. Citar o Exemplo do Bruce Eckel - Thinking in Java e os outros do Slide "Hackeando o Twitter e o Facebook"
 
 ALGORITMOS
 ==========
